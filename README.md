@@ -11,4 +11,4 @@ cat /var/jenkins_home/secrets/initialAdminPassword
 ```
 Go to **localhost:8080** and paste string from initialAdminPassword file.
 
-![](images/firstRun.PNG;)
+![](images/firstRun.PNG)
